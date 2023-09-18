@@ -1,0 +1,27 @@
+
+
+body {
+    background-image: url(img/fondo4.jpg);
+    background-repeat: no-repeat;
+    color: brown;
+    cursor: url(img/cursor14.png), auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.foto{  
+    margin-top: 25px;
+    margin-right: 15px;
+    border-radius: 30px;
+    
+    
+}
+
+
